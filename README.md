@@ -35,9 +35,9 @@ Repeat through multiple epochs for better denoising performance.
 
 ## PROGRAM
 
-### Name: NARAMALA KUMARTEJA
+### Name: Tella Thrishendra
 
-### Register Number: 212223230132
+### Register Number: 212223230227
 
 ```python
 # Autoencoder for Image Denoising using PyTorch
